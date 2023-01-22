@@ -6,7 +6,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
+💡 &nbsp;I like to explore new technologies and develop software solutions. \
 🌱 &nbsp;I'm on track for learning more about Front-end Web Development and Artificial Intelligence. \
 
 ### 🛠 &nbsp;Tech Stack
