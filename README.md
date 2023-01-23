@@ -5,7 +5,7 @@ Nice to meet you, I'm Shadrack Muwanguzi aka Sir. Shadrack
 ## Who Am I? 🤠
 
 - 🤓 Self taught Developer 
-- 👩‍💻 Working on Front-End Web Development 
+- 👨🏽‍💻 Working on Front-End Web Development 
 - 📝 Writing Words, Compiling Code
 - 🎯 Goal : To be a better Developer 
 - 📫 How to reach me : [muwanguzishadrackm@gmail.com](mailto:muwanguzishadrackm@gmail.com)
@@ -28,24 +28,5 @@ Nice to meet you, I'm Shadrack Muwanguzi aka Sir. Shadrack
     <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> &nbsp; &nbsp;
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; &nbsp;
-
-</p>
-
-<br>
-
- 
-
-<p align="center">Wanna Know me More?</p>
-
-<p align="center">
- 
-<a href="https://twitter.com/shadracksir" target="_blank">
-<img src="https://img.shields.io/badge/-Twitter-%231DA1F2" alt="Twitter" /></a> 
-
-<a href="https://www.instagram.com/sir.shadrack/" target="_blank">
-<img src="https://img.shields.io/badge/-Instagram-%23eb13a5" alt="Instagram" /></a>  
-
-<a href="https://www.linkedin.com/in/shadrack-muwanguzi-0a3862b0//" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%233781da" alt="LinkedIn"/></a>
 
 </p>
