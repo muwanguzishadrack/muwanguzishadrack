@@ -5,7 +5,7 @@ Nice to meet you, I'm Shadrack Muwanguzi aka Sir. Shadrack
 ## Who Am I? 🤠
 
 - 🤓 Self taught Developer 
-- 👩‍💻 Working on Web & App Development 
+- 👩‍💻 Working on Front-End Web Development 
 - 📝 Writing Words, Compiling Code
 - 🎯 Goal : To be a better Developer 
 - 📫 How to reach me : [muwanguzishadrackm@gmail.com](mailto:muwanguzishadrackm@gmail.com)
